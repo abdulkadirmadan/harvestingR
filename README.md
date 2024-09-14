@@ -10,3 +10,7 @@ nodes <- html_nodes(h, "table")
 html_text(nodes[[8]])
 
 html_table(nodes[[8]])
+
+
+# To lear this is a seful web: https://statsandr.com/blog/web-scraping-in-r/
+
